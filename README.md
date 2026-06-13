@@ -1,4 +1,4 @@
-Coffee Shop Sales Dashboard | Power BI
+☕ Coffee Shop Sales Dashboard | Power BI
 📌 Project Overview
 
 This project presents an interactive Coffee Shop Sales Dashboard built in Power BI to analyze sales performance, customer purchasing patterns, product category trends, and store-level performance.
